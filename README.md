@@ -15,7 +15,40 @@ npm install -S @feizheng/next-git-branch
 ```js
 import '@feizheng/next-git-branch';
 
-//DOCS here!
+nx.gitBranch()
+
+/*
+{
+  current: 'feature/page-relad',
+  all: [
+    'develop',
+    'feature/addContent',
+    'feature/page-relad',
+    'staging',
+    'origin/beta',
+    'origin/develop',
+    'origin/feature/addContent',
+    'origin/feature/contentLibrary',
+    'origin/feature/independentBiz',
+    'origin/feature/page-reload',
+    'origin/feature/pptPreview',
+    'origin/master',
+    'origin/staging'
+  ],
+  locals: [ 'develop', 'feature/addContent', 'feature/page-relad', 'staging' ],
+  remotes: [
+    'beta',
+    'develop',
+    'feature/addContent',
+    'feature/contentLibrary',
+    'feature/independentBiz',
+    'feature/page-reload',
+    'feature/pptPreview',
+    'master',
+    'staging'
+  ]
+}
+*/
 ```
 
 ## license
