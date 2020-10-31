@@ -2,8 +2,8 @@
  * name: @feizheng/next-git-branch
  * description: Git branch.
  * homepage: https://github.com/afeiship/next-git-branch
- * version: 1.0.0
- * date: 2020-10-30T02:38:51.118Z
+ * version: 1.0.1
+ * date: 2020-10-31T00:41:41.252Z
  * license: MIT
  */
 

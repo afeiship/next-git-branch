@@ -19,11 +19,11 @@ nx.gitBranch()
 
 /*
 {
-  current: 'feature/page-relad',
+  current: 'feature/page-reload',
   all: [
     'develop',
     'feature/addContent',
-    'feature/page-relad',
+    'feature/page-reload',
     'staging',
     'origin/beta',
     'origin/develop',
