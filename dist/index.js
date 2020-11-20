@@ -3,7 +3,7 @@
  * description: Get git branches infomation.
  * homepage: https://github.com/afeiship/next-git-branch
  * version: 1.0.0
- * date: 2020-11-20 10:31:06
+ * date: 2020-11-20 10:31:54
  * license: MIT
  */
 

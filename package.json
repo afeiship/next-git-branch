@@ -36,5 +36,15 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "git",
+    "branch",
+    "package",
+    "jswork",
+    "remote",
+    "local",
+    "all"
+  ]
 }
