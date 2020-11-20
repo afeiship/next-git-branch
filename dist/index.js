@@ -1,22 +1,21 @@
 /*!
- * name: @feizheng/next-git-branch
- * description: Git branch.
+ * name: @jswork/next-git-branch
+ * description: Get git branches infomation.
  * homepage: https://github.com/afeiship/next-git-branch
- * version: 1.0.1
- * date: 2020-10-31T00:41:41.252Z
+ * version: 1.0.0
+ * date: 2020-11-20 10:31:06
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
   var exec = require('child_process').execSync;
   var REMOTE_HEAD = 'HEAD';
   var REMOTE_BRACH = 'origin/';
 
   /*
   // @example: raw branches:
-
   [
     '* develop',
     '  feature/addContent',
