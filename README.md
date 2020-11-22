@@ -13,7 +13,7 @@ npm install -S @jswork/next-git-branch
 
 ## usage
 ```js
-import '@feizheng/next-git-branch';
+import '@jswork/next-git-branch';
 
 nx.gitBranch()
 
